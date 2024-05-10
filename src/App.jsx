@@ -4,6 +4,7 @@ import { Hero } from "./componets/Hero/Hero";
 import { Navbar } from "./componets/Navbar/Navbar";
 import { Experience } from "./componets/Experience/Experience";
 import { Projects } from "./componets/Projects/Projects";
+import { Contact } from "./componets/Contact/Contact";
 
 function App() {
   return <div className={styles.App}>
@@ -12,6 +13,7 @@ function App() {
     <About />
     <Experience />
     <Projects />
+    <Contact />
   </div>
 }
 

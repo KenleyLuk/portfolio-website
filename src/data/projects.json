@@ -42,7 +42,7 @@
   {
     "title": "Logistic Managmement Application",
     "imageSrc": "projects/lms.png",
-    "description": "I independently developed a logistic mobile application using Flutter, which provides management and tracking capabilities.",
+    "description": "I independently developed a logistic mobile application, which provides management and tracking capabilities.",
     "skills": ["Flutter", "Kotlin", "Java"],
     "demo": "",
     "source": ""
