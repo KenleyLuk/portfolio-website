@@ -2,6 +2,7 @@
 
 .container {
   display: flex;
+  align-self: stretch;
   flex-direction: column;
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
